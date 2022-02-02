@@ -157,3 +157,29 @@ input {
   padding: 0 0 0 15px;
 }
   
+.dashboard-title {
+  display: flex;
+  align-items: center;
+}
+
+.dashboard-title p {
+  padding: 0 0 0 15px;
+}
+
+.icons img {
+  padding: 0 5px; 
+}
+
+.project-title {
+  font-weight: bold;
+  padding: 0 0 5px 0;
+}
+
+.search, .profile-info{
+  align-items: center;
+  display: flex;
+}
+
+.search img, .profile-info img {
+  padding: 0 10px 0 0;
+}
